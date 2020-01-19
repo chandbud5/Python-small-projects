@@ -6,3 +6,4 @@ gives you table of a number
 
 # Tic-Tac-Toe
 This game is just for fun....!!!
+(There are some bugs in this which I will improve soon)
